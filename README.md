@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+**나는 짱이다**
+
+
+*햄스터를 키운다*
 <!--
 **alwn743-web/alwn743-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
